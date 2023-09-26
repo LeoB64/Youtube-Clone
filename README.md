@@ -12,7 +12,8 @@
 
 
 ## Description
-
+A copy of the home page of YouTube design. The project only uses HTML and CSS. It was done to reinforce my knowledge in those languages and learn new techniques to make a professional-looking website. The project is the final result of following the
+<a href="https://courses.supersimple.dev/courses/html-css">SuperSimpleDev</a>HTML & CSS Full Course - Beginner to Pro online course. 
 
 ## Technologies used
 <ul>
