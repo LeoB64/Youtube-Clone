@@ -9,6 +9,9 @@
 </ul>
 
 ## Screen shots
+<img src="img/read/youtube1.png">
+<img src="img/read/ezgifYoutube1.gif" width="100%">
+<img src="img/read/ezgifYoutube2.gif" width="100%">
 
 
 ## Description
